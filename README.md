@@ -41,5 +41,3 @@ network-traffic-anomaly-detection/
 ├─ tmp/                       # created at runtime for uploaded files
 ├─ requirements.txt
 └─ README.md
-
----
